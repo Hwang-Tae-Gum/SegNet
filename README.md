@@ -2,8 +2,7 @@
 
 ## Description
 
-This project demonstrates a PyTorch implementation of the SegNet model for performing semantic segmentation on the CamVid road scene dataset. 
-SegNet is a deep learning architecture that segments images at the pixel level, predicting the object class (e.g., road, car, pedestrian) for each region.
+This project demonstrates a PyTorch implementation of the SegNet model for performing semantic segmentation on the CamVid road scene dataset. SegNet is a deep learning architecture that segments images at the pixel level, with the current focus on differentiating prominent regions like objects and the surrounding environment (e.g., road vs. non-road areas, vehicles vs. general scene).
 
 ## Dataset Information (CamVid)
 
